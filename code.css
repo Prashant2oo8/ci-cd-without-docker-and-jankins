@@ -57,8 +57,8 @@ https://templatemo.com/tm-596-electric-xtra
         .shape-circle {
             width: 300px;
             height: 300px;
-            border: 2px solid #FF5E00;
-            border-radius: 50%;
+            border: 2px solid #cfae9a;
+            border-radius: 49%;
             top: 10%;
             left: 10%;
             animation: float-rotate 20s ease-in-out infinite;
